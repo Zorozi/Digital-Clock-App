@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css?family=Orbitron');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&display=swap');
+
+ body{ 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  font-family: 'Dancing Script', cursive;
+  min-height: 100vh;
+  background-color: #582c45;
+background-image: linear-gradient(225deg, #242323 0%, #342641 50%, #2B86C5 100%);
+
+}
+
+h1{
+  margin-bottom: 30px;
+  font-size: 35px;
+  color: #0a0a0a;
+}
+
+.wrapper {
+  background-color: rgb(15, 15, 15);
+  background-color: #A3C1AD;
+  padding: 40px;
+  width: 300px;
+  height: 300px;
+  border-radius: 30%;
+  font-size: 10px;
+  text-align: center;
+}
+
+ #dayView {
+  font-size: 20px;
+  letter-spacing: 2px;
+  margin-bottom: 20px;
+  padding: 20px;
+  background-color: #FBAB7E;
+  background-image: linear-gradient(62deg, #eeb18e 0%, #f79568 50%, #5e5c3e 100%);
+  font-family: 'Times New Roman', Times, serif;
+  border-radius: 10px;
+  color: #080808;
+  font-weight: 600;
+} 
+ .container{
+  background: linear-gradient(135deg, #416864, #e6e3c4, #1f1919);
+  border-radius: 10px;
+  cursor: default;
+  } 
+
+ .clockDisplay #time{
+  line-height: 85px;
+  color:rgb(207, 36, 36);
+  font-size: 25px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  font-family: 'Orbitron', sans-serif;
+  margin-bottom: 12px;
+
+}
