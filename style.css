@@ -9,7 +9,7 @@
   font-family: 'Dancing Script', cursive;
   min-height: 100vh;
   background-color: #582c45;
-background-image: linear-gradient(225deg, #242323 0%, #342641 50%, #2B86C5 100%);
+ background-image: linear-gradient(225deg, #242323 0%, #342641 50%, #2B86C5 100%);
 
 }
 
@@ -42,6 +42,7 @@ h1{
   color: #080808;
   font-weight: 600;
 } 
+
  .container{
   background: linear-gradient(135deg, #416864, #e6e3c4, #1f1919);
   border-radius: 10px;
